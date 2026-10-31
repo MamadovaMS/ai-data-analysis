@@ -17,16 +17,7 @@ AI & Data Analysis Projects
 ML	Scikit-learn, Imbalanced-learn
 Feature Engineering	Featuretools
 Инструменты	Jupyter Notebook, Poetry, Ruff, VS Code
-📂 Структура
-text
-.
-├── lab1.ipynb              # EDA и визуализация
-├── lab2.ipynb              # Предобработка и балансировка классов
-├── lab3.ipynb              # Feature Engineering + обучение модели
-├── data/                   # Исходные датасеты
-├── pyproject.toml
-└── README.md
-✅ Выполнено
+
 Lab 1 — EDA и визуализация
 Данные: цены на золото (1718 × 81).
 
